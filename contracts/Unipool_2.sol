@@ -10,7 +10,8 @@ contract LPTokenWrapper {
     using SafeMath for uint256;
     using SafeERC20 for IERC20;
 
-    IERC20 public uni = IERC20(0xdAdf443c086F9D3C556ebC57c398a852f6a02898);
+    // Uniswap V2 LP token for DOS/USDT pair
+    IERC20 public uni = IERC20(0x567317529806802ED8abb413099b5446E6df7b33);
 
     uint256 private _totalSupply;
     mapping(address => uint256) private _balances;
