@@ -5,5 +5,6 @@
 - Unipool staking contract: https://etherscan.io/address/0x2bE79dc52454BF261DB5e6867aD945Ff26847E07
 
 ### Rules and Frontend
-- Weekly liquidity incentive 100,000 DOS tokens.
-- https://unistake.dos.network
+- Weekly liquidity incentive 100,000 DOS tokens from ecosystem token reserve.
+- Weekly supply burn of 100,000 DOS tokens from ecosystem token reserve.
+- [Frontend](https://lp.dos.network) 
